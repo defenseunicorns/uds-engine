@@ -1,5 +1,38 @@
 # Changelog
 
+## [0.2.0](https://github.com/defenseunicorns/uds-runtime/compare/v0.1.0...v0.2.0) (2024-08-09)
+
+
+### Features
+
+* adding drawer e2e tests ([#164](https://github.com/defenseunicorns/uds-runtime/issues/164)) ([f19ca04](https://github.com/defenseunicorns/uds-runtime/commit/f19ca04c90dd03f9b96639beb26e787f3f3923f6))
+* adding e2e tests for DataTable ([#188](https://github.com/defenseunicorns/uds-runtime/issues/188)) ([a7c6256](https://github.com/defenseunicorns/uds-runtime/commit/a7c625694fa088103c2a0ee7c7b3f75281ad19bb))
+* adding e2e tests for search and dropdown selections ([#193](https://github.com/defenseunicorns/uds-runtime/issues/193)) ([e1a6c20](https://github.com/defenseunicorns/uds-runtime/commit/e1a6c207ea466853003886ae77c7bfcdd6de1995))
+* application views + dashboard ([#144](https://github.com/defenseunicorns/uds-runtime/issues/144)) ([a4c5110](https://github.com/defenseunicorns/uds-runtime/commit/a4c5110025241d38d241f17e10c236b53e00c313))
+* **ci:** add nightly releases ([#162](https://github.com/defenseunicorns/uds-runtime/issues/162)) ([d523a64](https://github.com/defenseunicorns/uds-runtime/commit/d523a647d54c144455f4a4808a4770ae05ac91b8))
+
+
+### Bug Fixes
+
+* empty endpoints are shown as Pending ([#158](https://github.com/defenseunicorns/uds-runtime/issues/158)) ([08b96ad](https://github.com/defenseunicorns/uds-runtime/commit/08b96ad9334f76af99856e0c9e9198aea2614c8e))
+* ensure nightly artifacts use proper tag ([#190](https://github.com/defenseunicorns/uds-runtime/issues/190)) ([bb44ae3](https://github.com/defenseunicorns/uds-runtime/commit/bb44ae33ddd2d220cb14410b17f828823ad03b4d))
+* fixing bug for issue [#147](https://github.com/defenseunicorns/uds-runtime/issues/147) ([#149](https://github.com/defenseunicorns/uds-runtime/issues/149)) ([4d6122d](https://github.com/defenseunicorns/uds-runtime/commit/4d6122dede264208238c2e3e26747db39489a58c))
+* pod status color ([#176](https://github.com/defenseunicorns/uds-runtime/issues/176)) ([2fe0c99](https://github.com/defenseunicorns/uds-runtime/commit/2fe0c99e51dea34bbec0e5383ef2890e563d9f8d))
+* **ui:** deployments table not showing accurate available count ([#192](https://github.com/defenseunicorns/uds-runtime/issues/192)) ([5b0f394](https://github.com/defenseunicorns/uds-runtime/commit/5b0f394ef80ea6286a017093851b4f42ae16009c))
+* **ui:** restart and node columns in pod table ([#194](https://github.com/defenseunicorns/uds-runtime/issues/194)) ([88a41c4](https://github.com/defenseunicorns/uds-runtime/commit/88a41c4fc4838945361d8d3117086664273b3a50))
+
+
+### Miscellaneous
+
+* add resource store tests ([#74](https://github.com/defenseunicorns/uds-runtime/issues/74)) ([33ad7bc](https://github.com/defenseunicorns/uds-runtime/commit/33ad7bcee1e2231ab2570865932bd29b6194d997))
+* adds basic e2e tests ([#175](https://github.com/defenseunicorns/uds-runtime/issues/175)) ([770c4a3](https://github.com/defenseunicorns/uds-runtime/commit/770c4a32a0ac1aae4e58cc8af89c6d998513a688))
+* adds navbar tests ([#189](https://github.com/defenseunicorns/uds-runtime/issues/189)) ([247afc7](https://github.com/defenseunicorns/uds-runtime/commit/247afc7813fe560648453764f1b891845483a9c4))
+* **ci:** add swagger docs gen to CI ([#167](https://github.com/defenseunicorns/uds-runtime/issues/167)) ([aed5b83](https://github.com/defenseunicorns/uds-runtime/commit/aed5b836288fb5592b254302355d05cb7e7ee3bc))
+* **ci:** add type checking ([#187](https://github.com/defenseunicorns/uds-runtime/issues/187)) ([3357983](https://github.com/defenseunicorns/uds-runtime/commit/3357983a961bc565aca55464dc19b8c6e346cd81))
+* codeowners ([#174](https://github.com/defenseunicorns/uds-runtime/issues/174)) ([b4cabcf](https://github.com/defenseunicorns/uds-runtime/commit/b4cabcf34c90d40fc2c6467932ac42c2f34e9fc6))
+* install Istio CRDs for minimal e2e tests ([#168](https://github.com/defenseunicorns/uds-runtime/issues/168)) ([8832dcd](https://github.com/defenseunicorns/uds-runtime/commit/8832dcd203cfc3086fa2280d76e4dd901b74f2c9))
+* speed up e2e tests with minimal cluster ([#155](https://github.com/defenseunicorns/uds-runtime/issues/155)) ([b8aae8a](https://github.com/defenseunicorns/uds-runtime/commit/b8aae8a9fb31be7be57394817769feeb19ee5747))
+
 ## [0.1.0](https://github.com/defenseunicorns/uds-runtime/compare/v0.1.0-alpha.5...v0.1.0) (2024-08-02)
 
 
